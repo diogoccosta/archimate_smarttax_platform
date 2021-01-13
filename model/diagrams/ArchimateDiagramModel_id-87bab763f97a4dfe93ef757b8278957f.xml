@@ -1,30 +1,4 @@
 <archimate:ArchimateDiagramModel
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="8.5 Use Case View"
-    id="id-87bab763f97a4dfe93ef757b8278957f">
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-952e4aa9d03245aaaf3b7e509b89d8c4">
-    <bounds
-        x="466"
-        y="129"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_id-492bcd2cb65042b288e00a9f9fa1d11f.xml#id-492bcd2cb65042b288e00a9f9fa1d11f"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-ea08589dfbf34ffc93fbb03bca4cda41">
-    <bounds
-        x="555"
-        y="244"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Contract"
-        href="Contract_id-411dc7cb197d4b01b717ded6115e0342.xml#id-411dc7cb197d4b01b717ded6115e0342"/>
-  </children>
-</archimate:ArchimateDiagramModel>
+    id="id-87bab763f97a4dfe93ef757b8278957f"/>
