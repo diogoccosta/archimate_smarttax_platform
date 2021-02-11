@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Smart Tax Platform - Packages"
+    name="Smart Tax Platform - Packages ABAP"
     id="id-2e7938efdceb4854ad4aae179feb1ce9">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -21,6 +21,16 @@
         id="id-2c3d3320676849e88654fb7b7ec7a061"
         source="id-fe280eec35f3420a8289851ad4e71075"
         target="id-1c52bf3baeed4162a163de81e7bbf3b4">
+      <bendpoints
+          startX="-42"
+          startY="69"
+          endX="252"
+          endY="-51"/>
+      <bendpoints
+          startX="-282"
+          startY="69"
+          endX="12"
+          endY="-51"/>
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-ad2f715596fb4a96887c8e91d7f8bc1f.xml#id-ad2f715596fb4a96887c8e91d7f8bc1f"/>
@@ -30,6 +40,16 @@
         id="id-870057a94cba4651aa746e8eddf4e675"
         source="id-fe280eec35f3420a8289851ad4e71075"
         target="id-c71d4ceea97d4945baacb16cdfe5b065">
+      <bendpoints
+          startX="42"
+          startY="69"
+          endX="-294"
+          endY="-51"/>
+      <bendpoints
+          startX="342"
+          startY="69"
+          endX="6"
+          endY="-51"/>
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-1a71b5ebbad340a0a8e08c949d4f9784.xml#id-1a71b5ebbad340a0a8e08c949d4f9784"/>
