@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ticket Found"
+    id="id-cb0b7f31027c4bd280f8f10ae482d568">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-4718339129754c4aa6ebbe742d27b432.xml#id-4718339129754c4aa6ebbe742d27b432"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_id-bc72d7800c094b97bab1b35e32e7e8f8.xml#id-bc72d7800c094b97bab1b35e32e7e8f8"/>
+</archimate:TriggeringRelationship>
