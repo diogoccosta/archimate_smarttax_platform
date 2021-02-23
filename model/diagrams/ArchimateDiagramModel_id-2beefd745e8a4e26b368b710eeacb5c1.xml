@@ -204,12 +204,12 @@
           startY="-51"
           endY="165"/>
       <bendpoints
-          startX="-72"
+          startX="72"
           startY="-51"
           endX="-72"
           endY="165"/>
       <bendpoints
-          startX="-72"
+          startX="72"
           startY="-171"
           endX="-72"
           endY="45"/>
